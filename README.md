@@ -1,2 +1,8 @@
-# Roomiz
-Home is not a place, it's a feeling
+# roomiz
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
